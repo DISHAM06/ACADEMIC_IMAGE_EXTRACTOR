@@ -1,0 +1,33 @@
+# Environments
+venv/
+venv_chem/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Large models / weights
+*.pth
+*.onnx
+*.pt
+*.zip
+
+# Caches
+.cache/
+.cache/**
+**/.cache/
+
+# Output files
+output/
+outputs/
+
+# PDFs / images generated
+*.pdf
+*.png
+
+# Logs
+*.log
